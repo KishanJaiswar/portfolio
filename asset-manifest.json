@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2d585968.css",
+    "main.js": "/portfolio/static/js/main.0563d9ce.js",
+    "static/media/Lush.png": "/portfolio/static/media/Lush.c1796edea2eb738480a6.png",
+    "static/media/Read-News.png": "/portfolio/static/media/Read-News.e12ed8281d78ad5549c6.png",
+    "static/media/KJs Food.png": "/portfolio/static/media/KJs Food.f12e6782488b78a3d55e.png",
+    "static/media/myImage.jpg": "/portfolio/static/media/myImage.568266aa40969b3a5626.jpg",
+    "static/media/hetthebug.png": "/portfolio/static/media/hetthebug.e10c30cd49186625abcc.png",
+    "index.html": "/portfolio/index.html",
+    "main.2d585968.css.map": "/portfolio/static/css/main.2d585968.css.map",
+    "main.0563d9ce.js.map": "/portfolio/static/js/main.0563d9ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d585968.css",
+    "static/js/main.0563d9ce.js"
+  ]
+}
